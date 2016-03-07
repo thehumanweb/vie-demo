@@ -24,7 +24,7 @@ CoverBackground {
     Label {
         id: label
         anchors.centerIn: parent
-        text: qsTr("View")
+        text: qsTr("Vie")
     }
 }
 
